@@ -1,0 +1,354 @@
+--2022-08-18 08:09:49--  http://xn--4bra.live/%E7%8C%AB
+Resolving xn--4bra.live (xn--4bra.live)... 8.210.64.130
+Connecting to xn--4bra.live (xn--4bra.live)|8.210.64.130|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://xn--4bra.live/gg.json [following]
+--2022-08-18 08:09:49--  http://xn--4bra.live/gg.json
+Reusing existing connection to xn--4bra.live:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 23600 (23K) [application/json]
+Saving to: ‘0818gg.json’
+
+     0K .......... .......... ...                             100%  376K=0.06s
+
+2022-08-18 08:09:49 (376 KB/s) - ‘0818gg.json’ saved [23600/23600]
+
+--2022-08-18 08:09:49--  http://xn--4bra.live/jar/live.txt
+Resolving xn--4bra.live (xn--4bra.live)... 8.210.64.130
+Connecting to xn--4bra.live (xn--4bra.live)|8.210.64.130|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 569693 (556K) [text/plain]
+Saving to: ‘tvboxhh-0818gg/live.txt’
+
+     0K .......... .......... .......... .......... ..........  8%  424K 1s
+    50K .......... .......... .......... .......... .......... 17%  849K 1s
+   100K .......... .......... .......... .......... .......... 26%  259M 0s
+   150K .......... .......... .......... .......... .......... 35%  358M 0s
+   200K .......... .......... .......... .......... .......... 44%  851K 0s
+   250K .......... .......... .......... .......... .......... 53%  381M 0s
+   300K .......... .......... .......... .......... .......... 62%  280M 0s
+   350K .......... .......... .......... .......... .......... 71%  571M 0s
+   400K .......... .......... .......... .......... .......... 80%  853K 0s
+   450K .......... .......... .......... .......... .......... 89%  351M 0s
+   500K .......... .......... .......... .......... .......... 98%  448M 0s
+   550K ......                                                100% 11.8T=0.3s
+
+2022-08-18 08:09:50 (1.84 MB/s) - ‘tvboxhh-0818gg/live.txt’ saved [569693/569693]
+
+--2022-08-18 08:09:50--  http://xn--4bra.live/jar/tvjs/bili.json
+Resolving xn--4bra.live (xn--4bra.live)... 8.210.64.130
+Connecting to xn--4bra.live (xn--4bra.live)|8.210.64.130|:80... --2022-08-18 08:09:50--  http://xn--4bra.live/jar/tvjs/shdy.json
+Resolving xn--4bra.live (xn--4bra.live)... 8.210.64.130
+Connecting to xn--4bra.live (xn--4bra.live)|8.210.64.130|:80... --2022-08-18 08:09:50--  http://xn--4bra.live/jar/tvjs/czzy2.json
+Resolving xn--4bra.live (xn--4bra.live)... 8.210.64.130
+Connecting to xn--4bra.live (xn--4bra.live)|8.210.64.130|:80... --2022-08-18 08:09:50--  http://xn--4bra.live/jar/tvjs/ysgc2.json
+Resolving xn--4bra.live (xn--4bra.live)... 8.210.64.130
+Connecting to xn--4bra.live (xn--4bra.live)|8.210.64.130|:80... --2022-08-18 08:09:50--  http://xn--4bra.live/jar/tvjs/555.json
+Resolving xn--4bra.live (xn--4bra.live)... 8.210.64.130
+Connecting to xn--4bra.live (xn--4bra.live)|8.210.64.130|:80... --2022-08-18 08:09:50--  http://xn--4bra.live/jar/tvjs/88kanqiu.json
+Resolving xn--4bra.live (xn--4bra.live)... 8.210.64.130
+Connecting to xn--4bra.live (xn--4bra.live)|8.210.64.130|:80... --2022-08-18 08:09:50--  http://xn--4bra.live/jar/tvjs/qiumi.json
+Resolving xn--4bra.live (xn--4bra.live)... 8.210.64.130
+Connecting to xn--4bra.live (xn--4bra.live)|8.210.64.130|:80... --2022-08-18 08:09:50--  http://xn--4bra.live/jar/tvjs/douyu.json
+Resolving xn--4bra.live (xn--4bra.live)... 8.210.64.130
+Connecting to xn--4bra.live (xn--4bra.live)|8.210.64.130|:80... --2022-08-18 08:09:50--  http://xn--4bra.live/jar/tvjs/huya2.json
+Resolving xn--4bra.live (xn--4bra.live)... 8.210.64.130
+Connecting to xn--4bra.live (xn--4bra.live)|8.210.64.130|:80... --2022-08-18 08:09:50--  http://xn--4bra.live/jar/tvjs/kuqimv.json
+Resolving xn--4bra.live (xn--4bra.live)... 8.210.64.130
+Connecting to xn--4bra.live (xn--4bra.live)|8.210.64.130|:80... --2022-08-18 08:09:50--  http://xn--4bra.live/jar/tvjs/jubaibai.json
+Resolving xn--4bra.live (xn--4bra.live)... connected.
+HTTP request sent, awaiting response... 8.210.64.130
+Connecting to xn--4bra.live (xn--4bra.live)|8.210.64.130|:80... --2022-08-18 08:09:50--  http://xn--4bra.live/jar/tvjs/naifeiorg.json
+Resolving xn--4bra.live (xn--4bra.live)... 8.210.64.130
+Connecting to xn--4bra.live (xn--4bra.live)|8.210.64.130|:80... --2022-08-18 08:09:50--  http://xn--4bra.live/jar/tvjs/yanaifei.json
+Resolving xn--4bra.live (xn--4bra.live)... 8.210.64.130
+Connecting to xn--4bra.live (xn--4bra.live)|8.210.64.130|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... --2022-08-18 08:09:50--  http://xn--4bra.live/jar/tvjs/zhenbuka.json
+Resolving xn--4bra.live (xn--4bra.live)... 8.210.64.130
+Connecting to xn--4bra.live (xn--4bra.live)|8.210.64.130|:80... connected.
+HTTP request sent, awaiting response... --2022-08-18 08:09:50--  http://xn--4bra.live/jar/tvjs/tgys.json
+Resolving xn--4bra.live (xn--4bra.live)... 8.210.64.130
+Connecting to xn--4bra.live (xn--4bra.live)|8.210.64.130|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... --2022-08-18 08:09:50--  http://xn--4bra.live/jar/tvjs/lanmei.json
+Resolving xn--4bra.live (xn--4bra.live)... 8.210.64.130
+Connecting to xn--4bra.live (xn--4bra.live)|8.210.64.130|:80... --2022-08-18 08:09:50--  http://xn--4bra.live/jar/tvjs/meiju562.json
+Resolving xn--4bra.live (xn--4bra.live)... 8.210.64.130
+Connecting to xn--4bra.live (xn--4bra.live)|8.210.64.130|:80... connected.
+HTTP request sent, awaiting response... --2022-08-18 08:09:50--  http://xn--4bra.live/jar/tvjs/bidiys2.json
+Resolving xn--4bra.live (xn--4bra.live)... 8.210.64.130
+Connecting to xn--4bra.live (xn--4bra.live)|8.210.64.130|:80... connected.
+HTTP request sent, awaiting response... --2022-08-18 08:09:50--  http://xn--4bra.live/jar/tvjs/qiyou.json
+Resolving xn--4bra.live (xn--4bra.live)... 8.210.64.130
+Connecting to xn--4bra.live (xn--4bra.live)|8.210.64.130|:80... --2022-08-18 08:09:50--  http://xn--4bra.live/jar/tvjs/voflix.json
+Resolving xn--4bra.live (xn--4bra.live)... 8.210.64.130
+Connecting to xn--4bra.live (xn--4bra.live)|8.210.64.130|:80... 200 OK
+Length: 31332 (31K) [application/json]
+Saving to: ‘tvboxhh-0818gg/tvjs/bili.json’
+
+     0K .......... ...--2022-08-18 08:09:50--  http://xn--4bra.live/jar/tvjs/cupfox.json
+Resolving xn--4bra.live (xn--4bra.live)... 8.210.64.130
+Connecting to xn--4bra.live (xn--4bra.live)|8.210.64.130|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... --2022-08-18 08:09:50--  http://xn--4bra.live/jar/tvjs/yekong.json
+Resolving xn--4bra.live (xn--4bra.live)... 8.210.64.130
+Connecting to xn--4bra.live (xn--4bra.live)|8.210.64.130|:80... --2022-08-18 08:09:50--  http://xn--4bra.live/jar/tvjs/pianku.json
+Resolving xn--4bra.live (xn--4bra.live)... 8.210.64.130
+Connecting to xn--4bra.live (xn--4bra.live)|8.210.64.130|:80... --2022-08-18 08:09:50--  http://xn--4bra.live/jar/tvjs/fengchedm.json
+Resolving xn--4bra.live (xn--4bra.live)... 200 OK
+Length: 2190 (2.1K) [application/json]
+Saving to: ‘tvboxhh-0818gg/tvjs/czzy2.json’
+
+     0K ..                                                    100%  661M=0s
+
+2022-08-18 08:09:50 (661 MB/s) - ‘tvboxhh-0818gg/tvjs/czzy2.json’ saved [2190/2190]
+
+200 OK
+Length: 26778.210.64.130 (2.6K) [application/json]
+
+Connecting to xn--4bra.live (xn--4bra.live)|8.210.64.130|:80... Saving to: ‘tvboxhh-0818gg/tvjs/shdy.json’
+
+     0K ..                                                    100%  646M=0s
+
+2022-08-18 08:09:50 (646 MB/s) - ‘tvboxhh-0818gg/tvjs/shdy.json’ saved [2677/2677]
+
+200 OK
+Length: 2133 (2.1K) [application/json]
+Saving to: ‘tvboxhh-0818gg/tvjs/ysgc2.json’
+
+     0K ..                                                    100%  545M=0s
+
+2022-08-18 08:09:50 (545 MB/s) - ‘tvboxhh-0818gg/tvjs/ysgc2.json’ saved [2133/2133]
+
+connected.
+HTTP request sent, awaiting response... connected.
+--2022-08-18 08:09:50--  http://xn--4bra.live/jar/tvjs/0mofun.json
+HTTP request sent, awaiting response... Resolving xn--4bra.live (xn--4bra.live)... 8.210.64.130
+Connecting to xn--4bra.live (xn--4bra.live)|8.210.64.130|:80... --2022-08-18 08:09:50--  http://xn--4bra.live/jar/tvjs/senwu.json
+Resolving xn--4bra.live (xn--4bra.live)... 8.210.64.130
+Connecting to xn--4bra.live (xn--4bra.live)|8.210.64.130|:80... 200 OK
+Length: 2331 (2.3K) [application/json]
+Saving to: ‘tvboxhh-0818gg/tvjs/88kanqiu.json’
+
+     0K ..                                                    100%  661M=0s
+
+2022-08-18 08:09:50 (661 MB/s) - ‘tvboxhh-0818gg/tvjs/88kanqiu.json’ saved [2331/2331]
+
+--2022-08-18 08:09:50--  http://xn--4bra.live/jar/tvjs/dm84.json
+Resolving xn--4bra.live (xn--4bra.live)... 200 OK
+Length: 3808 (3.7K) [application/json]
+Saving to: ‘tvboxhh-0818gg/tvjs/555.json’
+
+     0K ...                                                   100% 1015M=0s
+
+2022-08-18 08:09:50 (1015 MB/s) - ‘tvboxhh-0818gg/tvjs/555.json’ saved [3808/3808]
+
+8.210.64.130
+Connecting to xn--4bra.live (xn--4bra.live)|8.210.64.130|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... --2022-08-18 08:09:50--  http://xn--4bra.live/jar/
+Resolving xn--4bra.live (xn--4bra.live)... 8.210.64.130
+Connecting to xn--4bra.live (xn--4bra.live)|8.210.64.130|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3808 (3.7K) [application/json]
+Saving to: ‘tvboxhh-0818gg/tvjs/qiumi.json’
+
+     0K ...                                                   100% 1011M=0s
+
+2022-08-18 08:09:50 (1011 MB/s) - ‘tvboxhh-0818gg/tvjs/qiumi.json’ saved [3808/3808]
+
+200 OK
+Length: 6806 (6.6K) [application/json]
+Saving to: ‘tvboxhh-0818gg/tvjs/douyu.json’
+
+     0K ......                                                100% 1.17G=0s
+
+2022-08-18 08:09:50 (1.17 GB/s) - ‘tvboxhh-0818gg/tvjs/douyu.json’ saved [6806/6806]
+
+connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... ....... ..........                      100%  526K=0.06s
+
+2022-08-18 08:09:50 (526 KB/s) - ‘tvboxhh-0818gg/tvjs/bili.json’ saved [31332/31332]
+
+200 OK
+Length: 14363 (14K) [application/json]
+Saving to: ‘tvboxhh-0818gg/tvjs/jubaibai.json’
+
+     0K .......... ...connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2217 (2.2K) [application/json]
+Saving to: ‘tvboxhh-0818gg/tvjs/kuqimv.json’
+
+     0K ..                                                    100%  664M=0s
+
+2022-08-18 08:09:50 (664 MB/s) - ‘tvboxhh-0818gg/tvjs/kuqimv.json’ saved [2217/2217]
+
+connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1847 (1.8K) [application/json]
+Saving to: ‘tvboxhh-0818gg/tvjs/zhenbuka.json’
+
+     0K .                                                     100%  432M=0s
+
+2022-08-18 08:09:50 (432 MB/s) - ‘tvboxhh-0818gg/tvjs/zhenbuka.json’ saved [1847/1847]
+
+connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2800 (2.7K) [application/json]
+Saving to: ‘tvboxhh-0818gg/tvjs/lanmei.json’
+
+     0K ..                                                    100%  696M=0s
+
+2022-08-18 08:09:50 (696 MB/s) - ‘tvboxhh-0818gg/tvjs/lanmei.json’ saved [2800/2800]
+
+200 OK
+Length: 2808 (2.7K) [application/json]
+Saving to: ‘tvboxhh-0818gg/tvjs/bidiys2.json’
+
+     0K ..                                                    100%  524M=0s
+
+2022-08-18 08:09:50 (524 MB/s) - ‘tvboxhh-0818gg/tvjs/bidiys2.json’ saved [2808/2808]
+
+connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1840 (1.8K) [application/json]
+Saving to: ‘tvboxhh-0818gg/tvjs/qiyou.json’
+200 OK
+
+     0K .Length:                                                      100%  421M=0s
+
+2022-08-18 08:09:50 (421 MB/s) - ‘tvboxhh-0818gg/tvjs/qiyou.json’ saved [1840/1840]
+
+14724 (14K) [application/json]
+Saving to: ‘tvboxhh-0818gg/tvjs/meiju562.json’
+
+     0K .......... ...200 OK
+Length: 2444 (2.4K) [application/json]
+Saving to: ‘tvboxhh-0818gg/tvjs/huya2.json’
+
+     0K ..                                                    100%  472M=0s
+
+2022-08-18 08:09:50 (472 MB/s) - ‘tvboxhh-0818gg/tvjs/huya2.json’ saved [2444/2444]
+
+connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3511 (3.4K) [application/json]
+Saving to: ‘tvboxhh-0818gg/tvjs/voflix.json’
+
+     0K ...                                                   100%  976M=0s
+
+2022-08-18 08:09:50 (976 MB/s) - ‘tvboxhh-0818gg/tvjs/voflix.json’ saved [3511/3511]
+
+200 OK
+Length: 1897 (1.9K) [application/json]
+Saving to: ‘tvboxhh-0818gg/tvjs/yekong.json’
+
+     0K .                                                     100%  509M=0s
+
+2022-08-18 08:09:50 (509 MB/s) - ‘tvboxhh-0818gg/tvjs/yekong.json’ saved [1897/1897]
+
+.                                       100%  232K=0.06s
+
+2022-08-18 08:09:50 (232 KB/s) - ‘tvboxhh-0818gg/tvjs/jubaibai.json’ saved [14363/14363]
+
+200 OK
+Length: 1770 (1.7K) [application/json]
+Saving to: ‘tvboxhh-0818gg/tvjs/cupfox.json’
+
+     0K .                                                     100%  541M=0s
+
+2022-08-18 08:09:50 (541 MB/s) - ‘tvboxhh-0818gg/tvjs/cupfox.json’ saved [1770/1770]
+
+200 OK
+Length: 20622 (20K) [application/json]
+Saving to: ‘tvboxhh-0818gg/tvjs/naifeiorg.json’
+
+     0K .......... ...200 OK
+Length: 10991 (11K) [application/json]
+Saving to: ‘tvboxhh-0818gg/tvjs/yanaifei.json’
+
+     0K ..........                                            100%  402M=0s
+
+2022-08-18 08:09:50 (402 MB/s) - ‘tvboxhh-0818gg/tvjs/yanaifei.json’ saved [10991/10991]
+
+200 OK
+Length: 3394 (3.3K) [application/json]
+Saving to: ‘tvboxhh-0818gg/tvjs/pianku.json’
+
+     0K ...                                                   100%  782M=0s
+
+2022-08-18 08:09:50 (782 MB/s) - ‘tvboxhh-0818gg/tvjs/pianku.json’ saved [3394/3394]
+
+200 OK
+Length: 2203 (2.2K) [application/json]
+Saving to: ‘tvboxhh-0818gg/tvjs/fengchedm.json’
+
+     0K ..                                                    100%  584M=0s
+
+2022-08-18 08:09:50 (584 MB/s) - ‘tvboxhh-0818gg/tvjs/fengchedm.json’ saved [2203/2203]
+
+200 OK
+Length: 3825 (3.7K) [application/json]
+Saving to: ‘tvboxhh-0818gg/tvjs/senwu.json’
+
+     0K ...                                                   100% 1.09G=0s
+
+2022-08-18 08:09:50 (1.09 GB/s) - ‘tvboxhh-0818gg/tvjs/senwu.json’ saved [3825/3825]
+
+200 OK
+Length: 4436 (4.3K) [application/json]
+Saving to: ‘tvboxhh-0818gg/tvjs/tgys.json’
+
+     0K ....                                                  100%  202M=0s
+
+2022-08-18 08:09:50 (202 MB/s) - ‘tvboxhh-0818gg/tvjs/tgys.json’ saved [4436/4436]
+
+200 OK
+Length: 1660 (1.6K) [application/json]
+Saving to: ‘tvboxhh-0818gg/tvjs/dm84.json’
+
+     0K .                                                     100%  436M=0s
+
+2022-08-18 08:09:50 (436 MB/s) - ‘tvboxhh-0818gg/tvjs/dm84.json’ saved [1660/1660]
+
+200 OK
+Length: 505066 (493K) [text/html]
+Saving to: ‘tvboxhh-0818gg/mainjar.jar’
+
+     0K .......... ....                                       100%  224K=0.06s
+
+2022-08-18 08:09:50 (224 KB/s) - ‘tvboxhh-0818gg/tvjs/meiju562.json’ saved [14724/14724]
+
+200 OK
+Length: 4423 (4.3K) [application/json]
+Saving to: ‘tvboxhh-0818gg/tvjs/0mofun.json’
+
+     0K ....                                                  100%  990M=0s
+
+2022-08-18 08:09:50 (990 MB/s) - ‘tvboxhh-0818gg/tvjs/0mofun.json’ saved [4423/4423]
+
+.......                                 100%  219K=0.09s
+
+2022-08-18 08:09:50 (219 KB/s) - ‘tvboxhh-0818gg/tvjs/naifeiorg.json’ saved [20622/20622]
+
+....... .......... .......... .......... 10%  399K 1s
+    50K .......... .......... .......... .......... .......... 20%  803K 1s
+   100K .......... .......... .......... .......... .......... 30%  262M 0s
+   150K .......... .......... .......... .......... .......... 40%  224M 0s
+   200K .......... .......... .......... .......... .......... 50%  780K 0s
+   250K .......... .......... .......... .......... .......... 60%  167M 0s
+   300K .......... .......... .......... .......... .......... 70%  311M 0s
+   350K .......... .......... .......... .......... .......... 81%  644M 0s
+   400K .......... .......... .......... .......... .......... 91%  802K 0s
+   450K .......... .......... .......... .......... ...       100%  460M=0.3s
+
+2022-08-18 08:09:50 (1.53 MB/s) - ‘tvboxhh-0818gg/mainjar.jar’ saved [505066/505066]
+
