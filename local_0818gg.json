@@ -23,7 +23,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "clan://tvboxhh-0818gg/tvjs/bili.json"
+      "ext": "https://github.com/cuckookcuc/tvbox_0818gg/blob/main/tvjs/bili.json"
     },
     {
       "key": "360_spider",
@@ -422,7 +422,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh-0818gg/tvjs/shdy.json"
+      "ext": "https://github.com/cuckookcuc/tvbox_0818gg/blob/main/tvjs/shdy.json"
     },
     {
       "key": "csp_biubiu_厂长资源-蓝光",
@@ -432,7 +432,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "clan://tvboxhh-0818gg/tvjs/czzy2.json"
+      "ext": "https://github.com/cuckookcuc/tvbox_0818gg/blob/main/tvjs/czzy2.json"
     },
     {
       "key": "csp_biubiu_影视工厂",
@@ -442,7 +442,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh-0818gg/tvjs/ysgc2.json"
+      "ext": "https://github.com/cuckookcuc/tvbox_0818gg/blob/main/tvjs/ysgc2.json"
     },
     {
       "key": "csp_biubiu_555电影",
@@ -452,7 +452,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh-0818gg/tvjs/555.json"
+      "ext": "https://github.com/cuckookcuc/tvbox_0818gg/blob/main/tvjs/555.json"
     },
     {
       "key": "诺讯资源",
@@ -478,7 +478,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "clan://tvboxhh-0818gg/tvjs/88kanqiu.json"
+      "ext": "https://github.com/cuckookcuc/tvbox_0818gg/blob/main/tvjs/88kanqiu.json"
     },
     {
       "key": "csp_xpath_网络搜集库qiumi",
@@ -488,7 +488,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "clan://tvboxhh-0818gg/tvjs/qiumi.json"
+      "ext": "https://github.com/cuckookcuc/tvbox_0818gg/blob/main/tvjs/qiumi.json"
     },
     {
       "key": "csp_biubiu_斗鱼",
@@ -498,7 +498,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh-0818gg/tvjs/douyu.json"
+      "ext": "https://github.com/cuckookcuc/tvbox_0818gg/blob/main/tvjs/douyu.json"
     },
     {
       "key": "csp_xpath_huya",
@@ -508,7 +508,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://tvboxhh-0818gg/tvjs/huya2.json"
+      "ext": "https://github.com/cuckookcuc/tvbox_0818gg/blob/main/tvjs/huya2.json"
     },
     {
       "key": "csp_xpath_kuqimv",
@@ -518,7 +518,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "clan://tvboxhh-0818gg/tvjs/kuqimv.json"
+      "ext": "https://github.com/cuckookcuc/tvbox_0818gg/blob/main/tvjs/kuqimv.json"
     },
     {
       "key": "csp_xpath_jbb",
@@ -528,7 +528,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://tvboxhh-0818gg/tvjs/jubaibai.json"
+      "ext": "https://github.com/cuckookcuc/tvbox_0818gg/blob/main/tvjs/jubaibai.json"
     },
     {
       "key": "csp_xpath_naifeiorg",
@@ -538,7 +538,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://tvboxhh-0818gg/tvjs/naifeiorg.json"
+      "ext": "https://github.com/cuckookcuc/tvbox_0818gg/blob/main/tvjs/naifeiorg.json"
     },
     {
       "key": "csp_xpath_yanetflix",
@@ -548,7 +548,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh-0818gg/tvjs/yanaifei.json"
+      "ext": "https://github.com/cuckookcuc/tvbox_0818gg/blob/main/tvjs/yanaifei.json"
     },
     {
       "key": "csp_biubiu_真不卡cerrd",
@@ -558,7 +558,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh-0818gg/tvjs/zhenbuka.json"
+      "ext": "https://github.com/cuckookcuc/tvbox_0818gg/blob/main/tvjs/zhenbuka.json"
     },
     {
       "key": "csp_biubiu_特狗影视",
@@ -568,7 +568,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh-0818gg/tvjs/tgys.json"
+      "ext": "https://github.com/cuckookcuc/tvbox_0818gg/blob/main/tvjs/tgys.json"
     },
     {
       "key": "csp_biubiu_蓝莓影视",
@@ -578,7 +578,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh-0818gg/tvjs/lanmei.json"
+      "ext": "https://github.com/cuckookcuc/tvbox_0818gg/blob/main/tvjs/lanmei.json"
     },
     {
       "key": "考拉直链",
@@ -606,7 +606,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://tvboxhh-0818gg/tvjs/meiju562.json"
+      "ext": "https://github.com/cuckookcuc/tvbox_0818gg/blob/main/tvjs/meiju562.json"
     },
     {
       "key": "csp_XPath_bidiys",
@@ -616,7 +616,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh-0818gg/tvjs/bidiys2.json"
+      "ext": "https://github.com/cuckookcuc/tvbox_0818gg/blob/main/tvjs/bidiys2.json"
     },
     {
       "key": "小熊",
@@ -635,7 +635,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh-0818gg/tvjs/qiyou.json"
+      "ext": "https://github.com/cuckookcuc/tvbox_0818gg/blob/main/tvjs/qiyou.json"
     },
     {
       "key": "csp_biubiu_voflix",
@@ -645,7 +645,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh-0818gg/tvjs/voflix.json"
+      "ext": "https://github.com/cuckookcuc/tvbox_0818gg/blob/main/tvjs/voflix.json"
     },
     {
       "key": "csp_biubiu_cupfox",
@@ -655,7 +655,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh-0818gg/tvjs/cupfox.json"
+      "ext": "https://github.com/cuckookcuc/tvbox_0818gg/blob/main/tvjs/cupfox.json"
     },
     {
       "key": "csp_biubiu_yekong",
@@ -665,7 +665,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh-0818gg/tvjs/yekong.json"
+      "ext": "https://github.com/cuckookcuc/tvbox_0818gg/blob/main/tvjs/yekong.json"
     },
     {
       "key": "csp_appysv2_M2_暖光影视",
@@ -709,7 +709,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh-0818gg/tvjs/pianku.json"
+      "ext": "https://github.com/cuckookcuc/tvbox_0818gg/blob/main/tvjs/pianku.json"
     },
     {
       "key": "影图",
@@ -737,7 +737,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh-0818gg/tvjs/fengchedm.json"
+      "ext": "https://github.com/cuckookcuc/tvbox_0818gg/blob/main/tvjs/fengchedm.json"
     },
     {
       "key": "csp_biubiu_OmoFun动漫",
@@ -747,7 +747,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh-0818gg/tvjs/0mofun.json"
+      "ext": "https://github.com/cuckookcuc/tvbox_0818gg/blob/main/tvjs/0mofun.json"
     },
     {
       "key": "csp_biubiu_森屋新番",
@@ -757,7 +757,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh-0818gg/tvjs/senwu.json"
+      "ext": "https://github.com/cuckookcuc/tvbox_0818gg/blob/main/tvjs/senwu.json"
     },
     {
       "key": "csp_xpath___动漫巴士",
@@ -767,7 +767,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh-0818gg/tvjs/dm84.json"
+      "ext": "https://github.com/cuckookcuc/tvbox_0818gg/blob/main/tvjs/dm84.json"
     },
     {
       "key": "演唱会",
