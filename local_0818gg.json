@@ -25,6 +25,15 @@
       "filterable": 1
     },
     {
+      "key":"t4public",
+      "name":"T4公共",
+      "type":4,
+      "api":"https://t4.secan.icu/vod?sites=all&ali_token=xxxxxxxxx&timeout=10",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0
+    },
+    {
       "key": "csp_BBB",
       "name": "👨‍👩‍👦‍👦哔哩套餐",
       "type": 3,
